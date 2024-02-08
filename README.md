@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_16_HW
-This repository contains my homework assignment number 16
 # Task 1
 Create a class to describe the client.
 Place fields in the class to describe the client (registration date, name, age and other fields at your discretion).
