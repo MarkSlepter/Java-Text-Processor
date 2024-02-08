@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson16.assignment1.order;
+package task1.order;
 
 public class Order {
 

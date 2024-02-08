@@ -1,8 +1,8 @@
-package com.teachmeskills.lesson16.assignment1;
+package task1;
 
-import com.teachmeskills.lesson16.assignment1.client.Client;
-import com.teachmeskills.lesson16.assignment1.constant.IPassportNumber;
-import com.teachmeskills.lesson16.assignment1.order.Order;
+import task1.client.Client;
+import task1.constant.IPassportNumber;
+import task1.order.Order;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson16.assignment1.constant;
+package task1.constant;
 
 public interface IPassportNumber {
 

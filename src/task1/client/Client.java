@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson16.assignment1.client;
+package task1.client;
 
-import com.teachmeskills.lesson16.assignment1.order.Order;
+import task1.order.Order;
 
 import java.util.HashMap;
 import java.util.Map;
